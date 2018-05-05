@@ -45,6 +45,8 @@ We need to setup a small sqlite db for handling users and there sessions. For th
 
 Now all you project requirements are done.
 
+#### Running the Project
+
 To activate the server just run the following command in the terminal:
 ```
     python manage.py runserver
